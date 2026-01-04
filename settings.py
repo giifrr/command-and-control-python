@@ -13,8 +13,6 @@ RESPONSE_PATH_KEY = "index"
 
 # C2 server IP address
 # C2_SERVER = "localhost"
-# C2_SERVER = "192.168.2.132"
-C2_SERVER = "192.168.100.40"
 
 # ----- For Server ------
 # Bind address for the C2 server
